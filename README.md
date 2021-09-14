@@ -21,3 +21,28 @@ a place where something, especially a natural resource, is found in significant 
 COMPUTING
 a central location in which data is stored and managed.
 "the metadata will be aggregated in a repository"
+
+
+
+## Bio
+
+- Name: Daniel
+- Age: 27
+- Favorite Food: Potatos
+
+## A Recipe 
+
+Grünkohl am besten über Nacht im Kühlschrank auftauen lassen. Kartoffeln schälen, waschen und halbieren. Zwiebel halbieren, schälen und würfeln.
+2.
+In einem Topf Öl auf hoher Stufe erhitzen und Zwiebel darin ca. 2 Min. anbraten. Grünkohl und Brühe zugeben, mit etwas Salz würzen und bei mittlerer Stufe zugedeckt ca. 45 Min. garen. Nach ca. 20 Min. Garzeit Kassler, Bauchspeck und Kartoffelhälften dazugeben und darin garen lassen.
+3.
+Grünkohl-Eintopf mit Senf, Salz und Pfeffer abschmecken. Kassler und Bauchspeck aus dem Grünkohl-Eintopf nehmen, in gleichmäßige Stücke schneiden, auf tiefe Teller verteilen und zusammen mit Grünkohl-Eintopf servieren.
+
+Guten Appetit!
+
+## Defination Of misery
+
+misery
+noun
+a state or feeling of great physical or mental distress or discomfort.
+"a man who had brought her nothing but misery"
